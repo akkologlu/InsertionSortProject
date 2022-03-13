@@ -2,7 +2,9 @@
 
 ## Write the stages of the above given sequence according to the sort type.
 2,27,16,22,18,6  n
+
 2,6,16,22,18,27  n-1
+
 2,6,16,18,22,27  n-2
 
 ## Write the Big-O notation.
