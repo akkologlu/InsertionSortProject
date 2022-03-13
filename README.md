@@ -12,7 +12,9 @@ n(n-1)/2 = (n^2+n)/2 = O(n^2)
 
 ## Time Complexity:
 Average case: The number we are looking for is in the middle.
+
 Worst case: The number we are looking for is at the end.
+
 Best case: The number we are looking for is at the beginning of the series.
 
 ## What case does the number 18 fall into after the array is sorted?
